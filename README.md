@@ -1,2 +1,2 @@
 # SDR
-SDR Projects
+SDR Projects with GNU Radio
